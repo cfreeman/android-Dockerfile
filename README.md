@@ -2,7 +2,7 @@
 
 ## Description
 
-A Dockerfile for containerising Android applications, and uploading them onto your mobile devices.
+A Dockerfile for containerising Android applications, and uploading them onto your mobile devices. [Instructions on how to develop for Android within Docker can be found here.](http://reprage.com/post/configure-android-development-environment-with-docker/).
 
 ## License
 
